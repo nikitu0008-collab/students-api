@@ -1,5 +1,7 @@
 # Students API
 
+[![ci](https://github.com/nikitu0008-collab/students-api/actions/workflows/ci.yml/badge.svg)](https://github.com/nikitu0008-collab/students-api/actions/workflows/ci.yml)
+
 REST API на FastAPI для работы со списком студентов: фильтрация по курсу, специальности и году поступления, агрегаты по группам. Данные хранятся в SQLite, при первом запуске база создаётся и наполняется из `students.json`.
 
 ## Стек
